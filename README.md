@@ -8,4 +8,4 @@ This game was developed using the SFML library.
 1. Add the files to the current directory
 
 # Set up the code
-1. Execute the Timer.CPP file to play the game
+1. Execute the Timber.CPP file to play the game
