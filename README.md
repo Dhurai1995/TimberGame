@@ -1,6 +1,8 @@
 # Timber game
 This game was developed using the SFML library.
 
+<img src ="images/finalIMG.jpg" widht = "500" height="400" >
+
 # Setting up the environment
 1. Install Visual studio
 1. Add the files to the current directory
